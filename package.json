@@ -1,6 +1,10 @@
 {
   "name": "npm-boilerplate",
-  "aurhor": "alexlit",
+  "author": "alexlit",
+  "description": "A project that does something awesome",
+  "keywords": ["descriptive", "related", "words", "freecodecamp"],
+  "license": "MIT",
+  "version": "1.2.0",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -13,6 +17,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://idontknow/todo.git"
+    "url": "https://github.com/alex-lit/boilerplate-npm.git"
   }
 }
